@@ -137,7 +137,7 @@ def main():
         content = string_buffer.getvalue()
         string_buffer.close()
         # replace string
-        content = content.replace("Aethersailor", "pzyyll")
+        content = content.replace("Aethersailor", "BruceFeIix")
         content = content.replace(
             "Custom_Direct.list", "Custom_Direct_Full.list"
         )

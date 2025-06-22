@@ -4,7 +4,7 @@ clear
 sleep 1
 echo "##########################################################"
 echo "#                Custom_OpenClash_Rules                  #"
-echo "# https://github.com/Aethersailor/Custom_OpenClash_Rules #"
+echo "# https://github.com/BruceFeIix/Custom_OpenClash_Rules #"
 echo "##########################################################"
 sleep 1
 echo "广告过滤规则设置脚本开始运行..."
@@ -179,7 +179,7 @@ if [ "$adv_choice" = "y" ] || [ "$github_choice" = "y" ]; then
                 NEW_INSERT_CONTENT="${NEW_INSERT_CONTENT}
     LOG_OUT \"[广告过滤规则拉取脚本] 拉取最新的 adblockfilters-modified 广告过滤规则...\"
     curl -sS -4 -L --retry 10 --retry-delay 2 \\
-        \"https://testingcf.jsdelivr.net/gh/Aethersailor/adblockfilters-modified@refs/heads/main/rules/adblockdnsmasq.txt\" \\
+        \"https://testingcf.jsdelivr.net/gh/BruceFeIix/adblockfilters-modified@refs/heads/main/rules/adblockdnsmasq.txt\" \\
         -o \"\$TARGET_DIR/adblockfilters-modified-for-dnsmasq.conf\" >/dev/null 2>/tmp/adblockfilters-modified-curl.log
     CURL_EXIT=\$?
 

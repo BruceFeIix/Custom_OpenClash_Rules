@@ -16,7 +16,7 @@
 适合 dev 版本爱好者。  
 
 ```bash
-curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@refs/heads/main/shell/install_openclash_dev_update.sh | sh
+curl -sSL -4 https://testingcf.jsdelivr.net/gh/BruceFeIix/Custom_OpenClash_Rules@refs/heads/main/shell/install_openclash_dev_update.sh | sh
 ```
 
 ***
@@ -28,7 +28,7 @@ curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rul
 运行脚本后，根据提示自行选择需要写入的去广告规则指令。  
 
 ```bash
-curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules.sh | sh
+curl -sSL -4 https://testingcf.jsdelivr.net/gh/BruceFeIix/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules.sh | sh
 ```
 
 ***
@@ -38,7 +38,7 @@ curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rul
 **edit_custom_firewall_rules_anti-adn+github520.sh**  
 
 ```bash
-curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules_anti-ad+github520.sh | sh
+curl -sSL -4 https://testingcf.jsdelivr.net/gh/BruceFeIix/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules_anti-ad+github520.sh | sh
 ```
 
 ***
@@ -48,7 +48,7 @@ curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rul
 **edit_custom_firewall_rules_adblockfilters+github520.sh**  
   
 ```bash
-curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules_adblockfilters+github520.sh | sh
+curl -sSL -4 https://testingcf.jsdelivr.net/gh/BruceFeIix/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules_adblockfilters+github520.sh | sh
 ```
 
 ***
@@ -58,7 +58,7 @@ curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rul
 **edit_custom_firewall_rules_adblockfilters-modified+github520.sh**  
 
 ```bash
-curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules_adblockfilters-modified+github520.sh | sh
+curl -sSL -4 https://testingcf.jsdelivr.net/gh/BruceFeIix/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules_adblockfilters-modified+github520.sh | sh
 ```
 
 ***
@@ -70,5 +70,5 @@ curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rul
 一键写入“开发者选项”中的 Github520 Hosts 拉取指令  
 
 ```bash
-curl -sSL -4 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules_github520.sh | sh
+curl -sSL -4 https://testingcf.jsdelivr.net/gh/BruceFeIix/Custom_OpenClash_Rules@refs/heads/main/shell/edit_custom_firewall_rules_github520.sh | sh
 ```

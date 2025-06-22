@@ -8,7 +8,7 @@ RAW_FILE_PREFIX="https://testingcf.jsdelivr.net/gh/vernesong/OpenClash@refs/head
 clear
 echo "##########################################################"
 echo "#                Custom_OpenClash_Rules                  #"
-echo "# https://github.com/Aethersailor/Custom_OpenClash_Rules #"
+echo "# https://github.com/BruceFeIix/Custom_OpenClash_Rules #"
 echo "##########################################################"
 sleep 1
 echo "OpenClash dev 一键安装/更新脚本开始运行..."
